@@ -1,0 +1,20 @@
+{
+    "it": {
+        "usernames": ["generous_wind", "rumyantsevr", "VladVPetrov", "se_777"],
+        "without_usernames": {
+            "Марина": "307081658",
+            "Лёша": "381542978",
+            "Zaur": "342427577"
+        }
+    },
+    "managers": {
+        "usernames": ["GurtoVa"],
+        "without_usernames": {
+            "Tanya": "281626058",
+            "Маша": "270424854",
+            "Яна": "541739257",
+            "Евгения": "484968504",
+            "Maria": "477281170"
+        }
+    }
+}

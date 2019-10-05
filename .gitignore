@@ -1,0 +1,12 @@
+/.env/
+/.env36/
+/venv/
+/.idea/
+__pycache__
+*.py[co]
+
+*.log
+
+task_list.json
+usernames.json
+local_settings.py
