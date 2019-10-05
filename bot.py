@@ -7,7 +7,7 @@ import random
 from telegram import ParseMode
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-from settings import BOT_KEY
+from settings import BOT_KEY, PROXY
 
 logging.basicConfig(
     format='%(levelname)s %(asctime)s: %(message)s',
